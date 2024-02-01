@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gissel Santoyo
 - 👀 I’m interested in games, music, art, and movies.
-- 🌱 I’m currently learning node.js framework, unity, and formal languages.
+- 🌱 I’m currently learning ASP.NET framework, scripting languages, and operating systems.
 - 💞️ I’m looking to collaborate on web design, game development, software development and programming.
 - 📫 How to reach me: email - gisselisa00@gmail.com
 
